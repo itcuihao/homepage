@@ -1,0 +1,26 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "漩涡🌀"
+logo = "img/avatar.png"
+description = "漩涡🌀"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "我的名字叫浩仔"
+  image = "img/avatar.png"
+  headline = "纸上得来终觉浅，绝知此事要躬行"
+  bio = "A little bit about you"
+  links = [
+     { link = "http://cuihao.fun" },
+     { github = "https://github.com/itcuihao" },
+     { twitter = "https://twitter.com/itcuihao" },
+     { bars = "http://blog.cuihao.fun" },
+     { edit = "http://memos.cuihao.fun" },
+  ]

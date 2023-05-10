@@ -1,0 +1,13 @@
+baseURL = 'http://cuihao.fun/'
+title = "我的名字叫浩仔"
+languageCode = 'cn-zh'
+colorScheme = "blowfish"
+
+[author]
+name = "My name"
+image = "img/avatar.jpg"
+headline = "A generally awesome human"
+bio = "A little bit about me"
+links = [
+  { twitter = "https://twitter.com/username" }
+]
